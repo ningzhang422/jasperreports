@@ -24,37 +24,5 @@
       "City": "London",
       "ContactTitle": "Sales Agent"
     }
-  ],
-  "Orders": [
-    {
-      "ShipPostalCode": 51100,
-      "ShippedDate": "2016-07-16",
-      "OrderDate": "2016-07-04",
-      "OrderID": 10248,
-      "Freight": 32.38,
-      "RequiredDate": "2016-08-01",
-      "ShipCity": "Reims",
-      "ShipCountry": "France",
-      "EmployeeID": 5,
-      "ShipVia": 3,
-      "CustomerID": "VINET",
-      "ShipAddress": "59 rue de l'Abbaye",
-      "ShipName": "Vins et alcools Chevalier"
-    },
-    {
-      "ShipPostalCode": 44087,
-      "ShippedDate": "2016-07-10",
-      "OrderDate": "2016-07-05",
-      "OrderID": 10249,
-      "Freight": 11.61,
-      "RequiredDate": "2016-08-16",
-      "ShipCity": "Münster",
-      "ShipCountry": "Germany",
-      "EmployeeID": 6,
-      "ShipVia": 1,
-      "CustomerID": "TOMSP",
-      "ShipAddress": "Luisenstr. 48",
-      "ShipName": "Toms Spezialitäten"
-    }
   ]
 }}
